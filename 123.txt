@@ -4,7 +4,11 @@ git has a mutabe index called stage.
 git tacks changes.
 Creat a new brabch is quick.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creat a new branch is feat.
+=======
+Creat a new branch is feat b.
+>>>>>>> feat
 =======
 Creat a new branch is feat b.
 >>>>>>> feat
