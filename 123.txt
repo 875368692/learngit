@@ -6,6 +6,6 @@ Creat a new brabch is quick.
 <<<<<<< HEAD
 Creat a new branch is feat.
 =======
-Creat a new branch is feat.
+Creat a new branch is feat b.
 >>>>>>> feat
 
