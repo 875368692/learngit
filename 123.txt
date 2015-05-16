@@ -3,4 +3,5 @@ git is free software distributed under the GPL.
 git has a mutabe index called stage.
 git tacks changes.
 Creat a new brabch is quick.
+Creat a new branch is qq.
 
